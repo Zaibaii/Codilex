@@ -1,4 +1,5 @@
 ## [FR]
+**Codilex V2.0 en cours de progression**  
 Codilex permet de chercher ou retrouver des mots à partir de certains critères qui peuvent être combinés (nombre de lettre, première lettre, expression, etc).
 
 Codilex ne nécessite pas de connexion Internet. Ces sources de données sont locales et peuvent être facilement modifiées par les utilisateurs eux-mêmes si nécessaire.
@@ -11,6 +12,7 @@ Ce projet a été écrit en AutoIt et est disponible dans les langues suivantes 
  - Espagnol (ES)
 
 ## [EN]
+**Codilex V2.0 is currently in development**  
 Codilex allows you to search or find words based on certain criteria that can be combined (number of letter, first letter, expression, etc).
 
 Codilex does not require an Internet connection. These data sources are local and can be easily modified by users themselves if necessary.
